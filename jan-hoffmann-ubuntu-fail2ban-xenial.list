@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/jan-hoffmann/fail2ban/ubuntu xenial main
+# deb-src http://ppa.launchpad.net/jan-hoffmann/fail2ban/ubuntu xenial main

@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/ivaliullin/ansible-kubernetes/ubuntu xenial main
+# deb-src http://ppa.launchpad.net/ivaliullin/ansible-kubernetes/ubuntu xenial main
