@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/cloud-images/docker1809-k8s/ubuntu xenial main
+# deb-src http://ppa.launchpad.net/cloud-images/docker1809-k8s/ubuntu xenial main

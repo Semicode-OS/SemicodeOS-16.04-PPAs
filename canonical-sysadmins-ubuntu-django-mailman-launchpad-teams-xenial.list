@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/canonical-sysadmins/django-mailman-launchpad-teams/ubuntu xenial main
+# deb-src http://ppa.launchpad.net/canonical-sysadmins/django-mailman-launchpad-teams/ubuntu xenial main
